@@ -1,0 +1,7 @@
+streamlit==1.24.0
+rasterio
+numpy
+matplotlib
+opencv-python
+Pillow
+streamlit-drawable-canvas
